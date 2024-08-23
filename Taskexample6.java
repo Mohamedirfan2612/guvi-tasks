@@ -1,3 +1,4 @@
+// program to print bellowed pattern
 import java.util.Scanner;
 public class Taskexample6 {
         public static void main(String[] args) {
